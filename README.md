@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Bruno
 
-<!--
-**bruno-maruszczak/bruno-maruszczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I dabble in making interactive experiences and tools that work for people.
 
-Here are some ideas to get you started:
+Looking to create a <ins>**polished experience for users**</ins> with a <ins>**solid technical foundation**</ins> I went up and down the levels of abstraction:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Started out as a ***game designer***, then worked on autonomous underwater vehicle ***simulation and testing*** in Unity
+
+💼 Worked as a ***UX/UI designer***, then ***frontend*** dev, then ***fullstack***, now learning ***sysadmin*** and ***embedded*** development
+
+🧠 Attended lectures on ***cognitive science***, completed a ***Robotics Engineering*** degree, now I'm learning to ***make my own hardware***
+  
+### Let's talk! 📧 [brunomaruszczak@gmail.com](mailto:brunomaruszczak@gmail.com)
+
